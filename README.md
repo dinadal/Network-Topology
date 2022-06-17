@@ -36,5 +36,5 @@ Simulate the topology on Cisco Packet Tracer in order to optimally design the ne
 4- You have to assign IPs to the PCs using Static IP allocation.
 5- design the physical network in each room
 ## How to run
-Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [network.pkt](../master/Project.pkt). The whole network is in working condition. 
+Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [Project.pkt](../master/Project.pkt). The whole network is in working condition. 
 
